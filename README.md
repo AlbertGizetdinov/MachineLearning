@@ -53,4 +53,4 @@
 
 [Создаём свою модель распознавания лиц на Python](https://thecode.media/face-train/)
 
-[Учим нейросеть узнавать людей](https://thecode.media/face-train2/)
+[Учим нейросеть узнавать людей](https://thecode.media/face-train-2/)
